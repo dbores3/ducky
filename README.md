@@ -1,8 +1,8 @@
-# Ducky Climate Data API
+# Co2ToTree Data API
 ## _Translate kgCO2 to Area of Trees_
 
 
-The Ducky Climate Data API is a module in charge of translating kilograms CO2 equivalent to an area of trees that can absorb the CO2 in one year. Powered with NodeJS & ExpressJS. Due to the limited time, the authorization, Security Headers & CSRF protection is to be developed before setting it into a production environment.
+The Co2ToTreee Data API is a module in charge of translating kilograms CO2 equivalent to an area of trees that can absorb the CO2 in one year. Powered with NodeJS & ExpressJS. Due to the limited time, the authorization, Security Headers & CSRF protection is to be developed before setting it into a production environment.
 
 ## Features
 
