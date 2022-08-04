@@ -33,8 +33,8 @@ This API requires NPM/Yarn to run.
 Install & run it locally.
 
 ```sh
-git clone https://github.com/dbores3/Ducky
-cd Ducky/
+git clone https://github.com/dbores3/Co2ToTrees
+cd Co2ToTrees/
 npm i
 npm run dev
 ```
